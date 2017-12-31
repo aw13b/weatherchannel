@@ -7,7 +7,7 @@
 Andre Weir
 
 ### Project Description:
-This application uses an Application Program Interface from 'APIXU.com' to build a weather application. Using the user's zipcode, web application displays the weather forecast for the next ten days.
+This application uses an Application Program Interface from 'APIXU.com' to build a weather application. Using the user's zipcode, web application displays the weather forecast for the next ten days, including the highs and lows.
 
 ### Click Link to View Project:
 https://aw13b.github.io/weatherchannel/
